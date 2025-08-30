@@ -1,7 +1,7 @@
 {
   "$schema": "file:///D:/workspace/schemas/DistroMetaSchema.schema.json",
   "meta": {
-    "rss": "<LINK TO RSS FEED>",
+    "rss": "https://rss.blog.naver.com/experience_23.xml",
     "discord": {
       "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
       "smallImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
