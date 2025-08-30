@@ -1,7 +1,7 @@
 {
   "$schema": "file:///D:/workspace/schemas/DistroMetaSchema.schema.json",
   "meta": {
-    "rss": "http://linesandcolors.com/category/book-reviews/feed",
+    "rss": "https://akngs.github.io/knews-rss/categories/column.xml",
     "discord": {
       "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
       "smallImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
