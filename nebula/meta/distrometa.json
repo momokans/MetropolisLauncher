@@ -1,7 +1,7 @@
 {
   "$schema": "file:///D:/workspace/schemas/DistroMetaSchema.schema.json",
   "meta": {
-    "rss": "https://akngs.github.io/knews-rss/categories/column.xml",
+    "rss": "<LINK TO RSS FEED>",
     "discord": {
       "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
       "smallImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
