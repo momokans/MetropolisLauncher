@@ -995,7 +995,7 @@ async function loadNews(){
 
                     let link   = el.find('link').text()
                     let title  = el.find('title').text()
-                    let author = el.find('author').text()
+                    let author = el.find('dc\\:creator').text()
 
                     // Generate article.
                     articles.push(
