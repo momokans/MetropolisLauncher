@@ -7,9 +7,9 @@
     "icon": "How to set the server icon: https://github.com/dscalzi/Nebula#setting-the-server-icon",
     "address": "jahusever.p-e.kr:25565",
     "discord": {
-      "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
-      "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
-      "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+      "shortId": "Metropolis",
+      "largeImageText": "Metropolis 1.20.1",
+      "largeImageKey": "white"
     },
     "mainServer": false,
     "autoconnect": false
