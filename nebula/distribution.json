@@ -11,7 +11,7 @@
       "id": "metropolis-1.20.1",
       "name": "metropolis (Minecraft 1.20.1)",
       "description": "metropolis Running Minecraft 1.20.1 (Fabric v0.17.2)",
-      "icon": null,
+      "icon": "https://cdn.discordapp.com/attachments/1407126287201599560/1410150497230520353/8418c31007b617d7.png?ex=68b53e7d&is=68b3ecfd&hm=80a97d64731acde0409a79c77c4ee083a89aad9d4fd05f950751499e5038550a&",
       "version": "1.0.0",
       "address": "jahusever.p-e.kr:25565",
       "minecraftVersion": "1.20.1",
