@@ -1,7 +1,7 @@
 {
   "$schema": "file:///D:/workspace/schemas/DistroMetaSchema.schema.json",
   "meta": {
-    "rss": "255sss",
+    "rss": "http://rss.cnn.com/rss/cnn_topstories.rss",
     "discord": {
       "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
       "smallImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
