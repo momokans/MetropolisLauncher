@@ -5,6 +5,9 @@ title = "Metropolis Launcher"
 
 [ejs.landing]
 mediaGitHubURL = "https://www.notion.so/25cb91cfa38880898316e76b5dafe09d?v=25cb91cfa38881caab98000c184eacc1"
+mediaXURL = "https://www.notion.so/25cb91cfa38880898316e76b5dafe09d?v=25cb91cfa38881caab98000c184eacc1"
+mediaInstagramURL = "https://www.notion.so/25cb91cfa38880898316e76b5dafe09d?v=25cb91cfa38881caab98000c184eacc1"
+mediaYouTubeURL = "https://www.notion.so/25cb91cfa38880898316e76b5dafe09d?v=25cb91cfa38881caab98000c184eacc1"
 mediaDiscordURL = "https://discord.gg/B47xfKKv"
 
 [ejs.settings]
