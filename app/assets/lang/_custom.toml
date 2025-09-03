@@ -5,9 +5,6 @@ title = "Metropolis Launcher"
 
 [ejs.landing]
 mediaGitHubURL = "https://www.notion.so/25cb91cfa38880898316e76b5dafe09d?v=25cb91cfa38881caab98000c184eacc1"
-mediaXURL = "https://www.notion.so/25cb91cfa38880898316e76b5dafe09d?v=25cb91cfa38881caab98000c184eacc1"
-mediaInstagramURL = "https://www.notion.so/25cb91cfa38880898316e76b5dafe09d?v=25cb91cfa38881caab98000c184eacc1"
-mediaYouTubeURL = "https://www.notion.so/25cb91cfa38880898316e76b5dafe09d?v=25cb91cfa38881caab98000c184eacc1"
 mediaDiscordURL = "https://discord.gg/B47xfKKv"
 
 [ejs.settings]
@@ -16,5 +13,5 @@ supportLink = "https://www.notion.so/25cb91cfa38880898316e76b5dafe09d?v=25cb91cf
 
 [ejs.welcome]
 welcomeHeader = "메트로폴리스 서버"
-welcomeDescription = "Metropolis는 현실 경제를 기반으로 한 Minecraft 서버입니다. 다양한 경제 시스템과 직업, 그리고 여러 가지 치장 아이템과 퀄리티 높은 커스텀 요소들을 통해 현실 속 도시 생활을 경험하실 수 있습니다. 단순한 생존을 넘어, 플레이어 간의 거래와 협력이 중심이 되는 새로운 세계가 여러분을 기다리고 있습니다. 이번 서버에서도 즐거운 시간 보내시길 바랍니다."
-welcomeDescCTA = "지금 바로 Metropolis에서 현실 같은 Minecraft를 경험해보세요."
+welcomeDescription = "Metropolis는 현실 경제를 기반으로 한 Minecraft 서버입니다. 다양한 경제 시스템과 직업, 그리고 여러 가지 치장 아이템과 퀄리티 높은 커스텀 요소들을 통해 현실 속 도시 생활을 경험하실 수 있습니다. 단순한 생존을 넘어, 플레이어 간의 거래와 협력이 중심이 되는 새로운 세계가 여러분을 기다리고 있습니다."
+welcomeDescCTA = "힐링하는 메트로폴리스 서버에서 즐거운 시간 보내시길 바랍니다."
