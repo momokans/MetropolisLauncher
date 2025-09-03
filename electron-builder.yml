@@ -2,7 +2,7 @@ appId: 'metropolislauncher'
 productName: 'Metropolis Launcher'
 artifactName: '${productName}-setup-${version}.${ext}'
 
-copyright: 'Copyright © 2018-2024 Daniel Scalzi'
+copyright: 'Copyright © 2025 Jahu'
 
 asar: true
 compression: 'maximum'
