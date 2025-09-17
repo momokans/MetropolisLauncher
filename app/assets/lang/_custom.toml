@@ -4,15 +4,15 @@
 title = "Metropolis Launcher"
 
 [ejs.landing]
-mediaGitHubURL = "https://www.notion.so/25cb91cfa38880898316e76b5dafe09d?v=25cb91cfa38881caab98000c184eacc1"
-mediaXURL = "https://www.notion.so/25cb91cfa38880898316e76b5dafe09d?v=25cb91cfa38881caab98000c184eacc1"
-mediaInstagramURL = "https://www.notion.so/25cb91cfa38880898316e76b5dafe09d?v=25cb91cfa38881caab98000c184eacc1"
-mediaYouTubeURL = "https://www.notion.so/25cb91cfa38880898316e76b5dafe09d?v=25cb91cfa38881caab98000c184eacc1"
+mediaGitHubURL = "https://desert-brush-1cd.notion.site/25cb91cfa38880898316e76b5dafe09d?v=25cb91cfa38881caab98000c184eacc1&source=copy_link"
+mediaXURL = "https://desert-brush-1cd.notion.site/25cb91cfa38880898316e76b5dafe09d?v=25cb91cfa38881caab98000c184eacc1&source=copy_link"
+mediaInstagramURL = "https://desert-brush-1cd.notion.site/25cb91cfa38880898316e76b5dafe09d?v=25cb91cfa38881caab98000c184eacc1&source=copy_link"
+mediaYouTubeURL = "https://desert-brush-1cd.notion.site/25cb91cfa38880898316e76b5dafe09d?v=25cb91cfa38881caab98000c184eacc1&source=copy_link"
 mediaDiscordURL = "https://discord.gg/7HjBtuEb2X"
 
 [ejs.settings]
-sourceGithubLink = "https://www.notion.so/25cb91cfa38880898316e76b5dafe09d?v=25cb91cfa38881caab98000c184eacc1"
-supportLink = "https://www.notion.so/25cb91cfa38880898316e76b5dafe09d?v=25cb91cfa38881caab98000c184eacc1"
+sourceGithubLink = "https://desert-brush-1cd.notion.site/25cb91cfa38880898316e76b5dafe09d?v=25cb91cfa38881caab98000c184eacc1&source=copy_link"
+supportLink = "https://desert-brush-1cd.notion.site/25cb91cfa38880898316e76b5dafe09d?v=25cb91cfa38881caab98000c184eacc1&source=copy_link"
 
 [ejs.welcome]
 welcomeHeader = "메트로폴리스 서버"
